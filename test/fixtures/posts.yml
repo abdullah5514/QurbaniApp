@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  imagekey: MyString
+  description: MyString
+
+two:
+  imagekey: MyString
+  description: MyString
